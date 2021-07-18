@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Yukio-Tanaka Blog</title>
-    <link>https://Yukio-Tanaka.github.io/posts/</link>
-    <description>Recent content in Posts on Yukio-Tanaka Blog</description>
+    <title>Posts on Example Site</title>
+    <link>https://example.com/posts/</link>
+    <description>Recent content in Posts on Example Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Jul 2021 22:34:07 +0800</lastBuildDate><atom:link href="https://Yukio-Tanaka.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Jul 2021 22:34:07 +0800</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This is the post title</title>
-      <link>https://Yukio-Tanaka.github.io/posts/mypost/</link>
+      <link>https://example.com/posts/mypost/</link>
       <pubDate>Sun, 18 Jul 2021 22:34:07 +0800</pubDate>
       
-      <guid>https://Yukio-Tanaka.github.io/posts/mypost/</guid>
+      <guid>https://example.com/posts/mypost/</guid>
       <description>public class MyClass { public int MyProperty { get; set; } } </description>
     </item>
     
